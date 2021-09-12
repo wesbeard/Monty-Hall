@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Monty Hall Simulator 1.0</string>
+    <string name="retry">Retry?</string>
+</resources>
